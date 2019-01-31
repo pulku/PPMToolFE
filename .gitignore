@@ -27,5 +27,4 @@ yarn-error.log*
 *.iws
 *.iml
 *.ipr
-*/.idea/workspace.xml
-
+.idea/**/workspace.xml
