@@ -1,8 +1,11 @@
+//user action related
+export const SET_CURRENT_USER = "SET_CURRENT_USER";
 //project action types
 export const GET_ERRORS = "GET_ERRORS";
 export const GET_PROJECTS = "GET_PROJECTS";
 export const GET_PROJECT = "GET_PROJECT";
 export const DELETE_PROJECT = "DELETE_PROJECT";
+
 
 //Backlog action types
 export const GET_BACKLOG= "GET_BACKLOG";
